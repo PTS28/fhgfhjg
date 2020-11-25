@@ -1,4 +1,7 @@
-title: Pagina de prueba
+---
+title: "Bienvenida a mi blog"
+date: 2020-11-25
+---
 author: GitHub User
 email: prueba@prueba.es
 description: > # this means to ignore newlines until "baseurl:"
